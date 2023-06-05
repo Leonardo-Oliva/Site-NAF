@@ -1,0 +1,41 @@
+.authentication-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .authentication-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+    margin-left: 50px;
+  }
+  
+  .authentication-container button {
+    padding: 10px 20px;
+    background-color: #9B1536;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 230px;
+    margin-right: auto;
+  }
+  
+  .authentication-container h2 {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 190px;
+  }
+  
+  .authentication-container ul {
+    margin-top: 20px;
+  }
+  
+  .authentication-container li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }  
