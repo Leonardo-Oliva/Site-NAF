@@ -1,0 +1,88 @@
+.lista
+{
+    color: #9B1536;
+}
+
+.titulo
+{
+    color: #9B1536;
+    margin-top: 100px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.definicao
+{
+    font-size: large;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.fundo
+{
+    background-color: #f0e9e9;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.servicosAtendimento
+{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.containerOpcoes
+{
+    max-width: 55ch;
+    margin: 0 37%;
+    color: #36454F;
+    display: block;
+    color: inherit;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+.opcao1, .opcao2, .opcao3
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+}
+
+.divisaoBotao1
+{
+    background-color: #9B1536;
+    width: 120px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.divisaoBotao2, .divisaoBotao3
+{
+    background-color: #9B1536;
+    width: 120px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.botaoAnexar1, .botaoAnexar2, .botaoAnexar3
+{
+    color: white;
+    margin-left: 5px;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    font-size: medium;
+    width: fit-content;
+}
+
+.botaoAnexar1:hover, .botaoAnexar2:hover, .botaoAnexar3:hover
+{
+    filter: brightness(80%);
+}
